@@ -4,6 +4,8 @@ Cosine similarity measures the similarity between two vectors of an inner produc
 
 
 
+<p align="center">
+<img src = "output.png">
+</p>
 
 
-![image](output.png)
